@@ -1,4 +1,4 @@
 # Python
 # tkinter
 
-Hotel Managment School project.
+Hotel Managment  project.
